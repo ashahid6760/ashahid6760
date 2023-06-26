@@ -1,5 +1,5 @@
 
-As a highly motivated computer science graduate, I am eager to take on new challenges and utilize my skills to drive innovation in the fields of data science and software development. With a strong academic background in Computer Science and hands-on experience in various programming languages and technologies, I am dedicated to delivering exceptional results.
+As a highly motivated computer science graduate student, I am eager to take on new challenges and utilize my skills to drive innovation in the fields of data science and software development. With a strong academic background in Computer Science and hands-on experience in various programming languages and technologies, I am dedicated to delivering exceptional results.
 
 Currently, I am pursuing a Master's degree in Computer Science with a focus on Data Science at The University of Texas at Dallas. This academic journey has provided me with a deep understanding of fundamental concepts and practical skills in the field. I have acquired expertise in programming languages such as Java, Python, C, C++, and JavaScript, enabling me to tackle diverse software development tasks with confidence.
 
